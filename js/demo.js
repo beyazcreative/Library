@@ -24,3 +24,5 @@ var staring = document.getElementById('ID');
 if (staring == "") {
     document.write();
 }
+
+//// this code for ....
