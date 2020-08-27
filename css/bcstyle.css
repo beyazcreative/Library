@@ -1,5 +1,8 @@
 @charset "utf-8";
+
 /* CSS Document  power by BCWORKS http://www.bcworks.com */
+
+
 /* this is for div
 Div class right float ---> dcr
 Div class left float ----> dcl
@@ -17,139 +20,153 @@ accept text class green ----> acctextgreen
 noteitalic text class blue ----> noteitalicblue
 noteitalic text class red ----> noteitalicred
 */
-.dcr{
-	width: auto;
-	height: auto;
-	float: right;
-	background-color: white;
-	font-family: arial;
-	font-size: 12px;
-	font-style: normal;
-	color: white;
-}
-.dcl{
-	width: auto;
-	height: auto;
-	float: left;
-	background-color: white;
-	font-family: arial;
+
+.dcr {
+    width: auto;
+    height: auto;
+    float: right;
+    background-color: white;
+    font-family: arial;
     font-size: 12px;
-	font-style: normal;
-	color: white;
+    font-style: normal;
+    color: white;
 }
-.dcrwb{
-	width: auto;
-	height: auto;
-	float: right;
-	border: thin;
-	border-radius: 1px;
-	background-color: white;
-	font-family: arial;
-	font-size: 12px;
-	font-style: normal;
-	color: white;
-}
-.dclwb{
-	width: auto;
-	height: auto;
-	float: left;
-	border: thin;
-	border-radius: 1px;
-	background-color: white;
-	font-family: arial;
-	font-size: 12px;
-	font-style: normal;
-	color: white;
-}
-.dcash{
-	width: auto;
-	height: auto;
-	float: left;
-	border: thin;
-	border-radius: 1px;
-	box-shadow: 0px 2px 4px rgba(0 , 0 , 0 , 0.2);
-	background-color: white;
-	font-family: arial;
-	font-size: 12px;
-	font-style: normal;
-	color: white;
-}
-.butgreen{
-	width: auto;
-	height: auto;
-	border-radius: 5px;
-	border: hidden;
-	background-color:#7BF837;
-	font-family: arial;
+
+.dcl {
+    width: auto;
+    height: auto;
+    float: left;
+    background-color: white;
+    font-family: arial;
     font-size: 12px;
-	font-style: normal;
-	color: white;
+    font-style: normal;
+    color: white;
 }
-.butred{
-	width: auto;
-	height: auto;
-	border-radius: 5px;
-	border: hidden;
-	background-color: #E10F13;
-	font-family: arial;
+
+.dcrwb {
+    width: auto;
+    height: auto;
+    float: right;
+    border: thin;
+    border-radius: 1px;
+    background-color: white;
+    font-family: arial;
     font-size: 12px;
-	font-style: normal;
-	color: white;
+    font-style: normal;
+    color: white;
 }
-.butblue{
-	width: auto;
-	height: auto;
-	border-radius: 5px;
-	border: hidden;
-	background-color: #33A4F5;
-	font-family: arial;
+
+.dclwb {
+    width: auto;
+    height: auto;
+    float: left;
+    border: thin;
+    border-radius: 1px;
+    background-color: white;
+    font-family: arial;
     font-size: 12px;
-	font-style: normal;
-	color: white;
+    font-style: normal;
+    color: white;
 }
-.butgray{
-	width: auto;
-	height: auto;
-	border-radius: 5px;
-	border: hidden;
-	background-color: #C3C0C0;
-	font-family: arial;
+
+.dcash {
+    width: auto;
+    height: auto;
+    float: left;
+    border: thin;
+    border-radius: 1px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    font-family: arial;
     font-size: 12px;
-	font-style: normal;
-	color: black;
+    font-style: normal;
+    color: white;
 }
-.boxwhite{
-	width: auto;
-	height: auto;
-	border-radius: 5px;
-	border: hidden;
-	background-color: #FFFFFF;
-	font-family: arial;
+
+.butgreen {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: hidden;
+    background-color: #7BF837;
+    font-family: arial;
     font-size: 12px;
-	font-style: normal;
-	color: black;
+    font-style: normal;
+    color: white;
 }
-.etextred{
-	font-family: Arial;
-	font-size: 14px;
-	font-style: normal;
-	color: red;
+
+.butred {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: hidden;
+    background-color: #E10F13;
+    font-family: arial;
+    font-size: 12px;
+    font-style: normal;
+    color: white;
 }
-.acctextgreen{
-	font-family: Arial;
-	font-size: 14px;
-	font-style: normal;
-	color: green;
+
+.butblue {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: hidden;
+    background-color: #33A4F5;
+    font-family: arial;
+    font-size: 12px;
+    font-style: normal;
+    color: white;
 }
-.noteitalicblue{
-	font-family: Arial;
-	font-size: 12px;
-	font-style: italic;
-	color: blue;
+
+.butgray {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: hidden;
+    background-color: #C3C0C0;
+    font-family: arial;
+    font-size: 12px;
+    font-style: normal;
+    color: black;
 }
-.noteitalicred{
-	font-family: Arial;
-	font-size: 12px;
-	font-style: italic;
-	color: red;
+
+.boxwhite {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: hidden;
+    background-color: #FFFFFF;
+    font-family: arial;
+    font-size: 12px;
+    font-style: normal;
+    color: black;
+}
+
+.etextred {
+    font-family: Arial;
+    font-size: 14px;
+    font-style: normal;
+    color: red;
+}
+
+.acctextgreen {
+    font-family: Arial;
+    font-size: 14px;
+    font-style: normal;
+    color: green;
+}
+
+.noteitalicblue {
+    font-family: Arial;
+    font-size: 12px;
+    font-style: italic;
+    color: blue;
+}
+
+.noteitalicred {
+    font-family: Arial;
+    font-size: 12px;
+    font-style: italic;
+    color: red;
 }
