@@ -19,6 +19,8 @@ error text class red ----> etextred
 accept text class green ----> acctextgreen
 noteitalic text class blue ----> noteitalicblue
 noteitalic text class red ----> noteitalicred
+Image shadow class ------> imagesh
+Div shadow class ------> divsh
 */
 
 .dcr {
@@ -81,6 +83,14 @@ noteitalic text class red ----> noteitalicred
     font-size: 12px;
     font-style: normal;
     color: white;
+}
+
+.imagesh {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.Divsh {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .butgreen {
