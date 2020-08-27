@@ -15,6 +15,7 @@ Button class red ----> butred
 Button class blue ----> butblue
 Button class gray ----> butgray
 Button class black ----> butblack
+Button class color with outline border --------> butoutline
 text box class gray ----> boxgray
 text box class white ----> boxwhite
 text box class yellow ----> boxyellow
@@ -32,7 +33,7 @@ titel class blue ------> titeltextblue
 
 
 /// you can add ...
-cursor: pointer; for show hand
+cursor: pointer; for show hand on the links
 for link use a tag
 
 */
@@ -240,6 +241,19 @@ hr.new5 {
     color: white;
 }
 
+.butoutline {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: 3px solid #d4140d;
+    border: hidden;
+    background-color: #7BF837;
+    font-family: arial;
+    font-size: 12px;
+    font-style: normal;
+    color: white;
+}
+
 .boxwhite {
     width: auto;
     height: auto;
@@ -257,7 +271,7 @@ hr.new5 {
     height: auto;
     border-radius: 5px;
     border: hidden;
-    background-color: #fdf392;
+    background-color: yellow;
     font-family: arial;
     font-size: 12px;
     font-style: normal;
