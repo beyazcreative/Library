@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document  power by BCWORKS http://www.bcworks.com */
+/* this is for div
+Div class right float ---> dcr
+Div class left float ----> dcl
+Div class right float with border  ----> dcrwb
+Div class right float with border  ----> dclwb
+Button class green ----> butgreen
+Button class red ----> butred
+Button class blue ----> but
+
+*/
+.dcr{
+	width: auto;
+	height: auto;
+	float: right;
+	background-color: white;
+	font-family: arial;
+	font-size: 12px;
+	font-style: normal;
+	color: white;
+}
+.dcl{
+	width: auto;
+	height: auto;
+	float: left;
+	background-color: white;
+	font-family: arial;
+    font-size: 12px;
+	font-style: normal;
+	color: white;
+}
+.dcrwb{
+	width: auto;
+	height: auto;
+	float: right;
+	border: thin;
+	border-radius: 1px;
+	background-color: white;
+	font-family: arial;
+	font-size: 12px;
+	font-style: normal;
+	color: white;
+}
+.dclwb{
+	width: auto;
+	height: auto;
+	float: left;
+	border: thin;
+	border-radius: 1px;
+	background-color: white;
+	font-family: arial;
+	font-size: 12px;
+	font-style: normal;
+	color: white;
+}
+.butgreen{
+	width: auto;
+	height: auto;
+	border-radius: 5px;
+	background-color: chartreuse;
+	font-family: arial;
+    font-size: 12px;
+	font-style: normal;
+	color: white;
+}
+.butgreen{
+	width: auto;
+	height: auto;
+	border-radius: 5px;
+	background-color: red;
+	font-family: arial;
+    font-size: 12px;
+	font-style: normal;
+	color: white;
+}
