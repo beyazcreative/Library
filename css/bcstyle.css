@@ -21,7 +21,43 @@ noteitalic text class blue ----> noteitalicblue
 noteitalic text class red ----> noteitalicred
 Image shadow class ------> imagesh
 Div shadow class ------> divsh
+titel class red ------> titeltextred
+titel class orange ------> titeltextor
+
+
+/// you can add ...
+cursor: pointer; for show hand
+for link use a tag
+
 */
+
+
+/*  link */
+
+a:link {
+    color: black;
+}
+
+
+/* visited link */
+
+a:visited {
+    color: black;
+}
+
+
+/* mouse over link */
+
+a:hover {
+    color: black;
+}
+
+
+/* selected link */
+
+a:active {
+    color: black;
+}
 
 .dcr {
     width: auto;
@@ -179,4 +215,18 @@ Div shadow class ------> divsh
     font-size: 12px;
     font-style: italic;
     color: red;
+}
+
+.titeltextred {
+    font-family: Arial;
+    font-size: 16px;
+    font-style: bold;
+    color: red;
+}
+
+.titeltextor {
+    font-family: Arial;
+    font-size: 16px;
+    font-style: bold;
+    color: rgb(250, 169, 77);
 }
