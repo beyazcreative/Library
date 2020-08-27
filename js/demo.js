@@ -3,3 +3,17 @@ function MoveId() {
     var elmntToView = document.getElementById(" for exapmle ID");
     elmntToView.scrollIntoView();
 }
+
+
+///// this is for hidden or unhidden objects
+
+var hidden = false;
+
+function action() {
+    hidden = !hidden;
+    if (hidden) {
+        document.getElementById('ID').style.visibility = 'hidden';
+    } else {
+        document.getElementById('ID').style.visibility = 'visible';
+    }
+}
