@@ -14,6 +14,7 @@ Button class green ----> butgreen
 Button class red ----> butred
 Button class blue ----> butblue
 Button class gray ----> butgray
+Button class black ----> butblack
 text box class gray ----> boxgray
 text box class white ----> boxwhite
 text box class yellow ----> boxyellow
@@ -21,12 +22,14 @@ error text class red ----> etextred
 accept text class green ----> acctextgreen
 noteitalic text class blue ----> noteitalicblue
 noteitalic text class red ----> noteitalicred
+noteitalic text class yellow ----> noteitalicyellow
 Image shadow class ------> imagesh
 Div shadow class ------> divsh
 titel class red ------> titeltextred
 titel class orange ------> titeltextor
 titel class black -----> titeltextblack
 titel class blue ------> titeltextblue
+
 
 /// you can add ...
 cursor: pointer; for show hand
@@ -186,7 +189,19 @@ a:active {
     font-family: arial;
     font-size: 12px;
     font-style: normal;
-    color: black;
+    color: gray;
+}
+
+.butblack {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: hidden;
+    background-color: black;
+    font-family: arial;
+    font-size: 12px;
+    font-style: normal;
+    color: white;
 }
 
 .boxwhite {
@@ -239,6 +254,13 @@ a:active {
     font-size: 12px;
     font-style: italic;
     color: red;
+}
+
+.noteitalicyellow {
+    font-family: Arial;
+    font-size: 12px;
+    font-style: italic;
+    color: yellow;
 }
 
 .titeltextred {
