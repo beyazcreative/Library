@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T12:12:08.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="rPH0p4ioqCBUZPCKRnmQ" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T12:24:44.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qpeb8Z8CahgB2ob68DKC" version="13.7.9" type="github">
   <diagram id="BzG-idGq5Re7dHi9zUym" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,13 +56,13 @@
             <mxPoint x="700" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_zSGnlk9lr0JbZR3jzwY-13" value="acssoreey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_zSGnlk9lr0JbZR3jzwY-13" value="accessory" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_zSGnlk9lr0JbZR3jzwY-15" value="gift cart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="460" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_zSGnlk9lr0JbZR3jzwY-21" value="flover&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_zSGnlk9lr0JbZR3jzwY-21" value="jewelry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="530" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_zSGnlk9lr0JbZR3jzwY-22" value="all idea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -71,11 +71,14 @@
         <mxCell id="_zSGnlk9lr0JbZR3jzwY-23" value="chaklet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="460" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_zSGnlk9lr0JbZR3jzwY-24" value="all idea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_zSGnlk9lr0JbZR3jzwY-24" value="flower" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="530" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_zSGnlk9lr0JbZR3jzwY-25" value="all idea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_zSGnlk9lr0JbZR3jzwY-25" value="perfume" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="600" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSGnlk9lr0JbZR3jzwY-38" value="selle prodoct&lt;br&gt;ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="460" width="360" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
